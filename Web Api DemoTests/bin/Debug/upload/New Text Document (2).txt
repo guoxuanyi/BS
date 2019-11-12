@@ -1,0 +1,12 @@
+熟练掌握c#的语法与使用,.net web api,.net mvc,webform,entity framwork 的配置与使用
+
+熟练掌握angular的路由,双向绑定,组件传值,服务,HttpClient,cli命令行,
+
+掌握node.js的命令行
+熟练vue2.0路由，双向绑定等
+熟练掌握java的语法及使用：spring,spring mvc,mybatis框架,springboot,了解hibernate,
+
+熟练html,js,css,scss的基本用法
+
+熟练掌握oracle,mysql,sql server数据库
+

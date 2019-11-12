@@ -1,0 +1,61 @@
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Web Api DemoTests.dll.config
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Web Api DemoTests.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Web Api DemoTests.pdb
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Castle.Core.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Moq.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Web Api Demo.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\WebActivatorEx.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Swashbuckle.Core.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Http.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\AutoMapper.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\EntityFramework.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\WebGrease.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Razor.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Web Api Demo.pdb
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Web Api Demo.dll.config
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Castle.Core.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Moq.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Optimization.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Http.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\AutoMapper.pdb
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\AutoMapper.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\EntityFramework.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.Razor.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\obj\Debug\Web Api DemoTests.csprojAssemblyReference.cache
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\obj\Debug\Web Api DemoTests.csproj.CopyComplete
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\obj\Debug\Web Api DemoTests.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\obj\Debug\Web Api DemoTests.pdb
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Autofac.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Autofac.Integration.WebApi.dll
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Autofac.xml
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Autofac.Integration.WebApi.pdb
+C:\Users\xuanyi.guo\source\repos\Web Api Demo\Web Api DemoTests\bin\Debug\Autofac.Integration.WebApi.xml
